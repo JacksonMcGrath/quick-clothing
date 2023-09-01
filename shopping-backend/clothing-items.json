@@ -1,0 +1,1695 @@
+[{
+  "_id": {
+    "$oid": "64e6a741b47e4e9896dcf046"
+  },
+  "item_name": "Striped Long-Sleeve Tee Shirt",
+  "item_id": "U001",
+  "category_id": "SHI3",
+  "store_name": "Uniqlo",
+  "price": 29.9,
+  "color": [
+    "red",
+    "green",
+    "black]"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6ab32b47e4e9896dcf047"
+  },
+  "item_name": "Dry Pique Short-Sleeve Polo Shirt",
+  "item_id": "U002",
+  "category_id": "SHI3",
+  "store_name": "Uniqlo",
+  "price": 29.9,
+  "color": [
+    "white",
+    "gray",
+    "blue"
+  ],
+  "gender": "uni",
+  "formality_level": 4,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6accdb47e4e9896dcf048"
+  },
+  "item_name": "Cargo Pants",
+  "item_id": "U003",
+  "category_id": "P5",
+  "store_name": "Uniqlo",
+  "price": 49.9,
+  "color": [
+    "white",
+    "gray",
+    "blue"
+  ],
+  "gender": "m",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6ad6eb47e4e9896dcf049"
+  },
+  "item_name": "Smart Ankle Pants",
+  "item_id": "U004",
+  "category_id": "P5",
+  "store_name": "Uniqlo",
+  "price": 49.9,
+  "color": [
+    "white",
+    "green",
+    "black"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6ae7eb47e4e9896dcf04a"
+  },
+  "item_name": "Comfort Blazer",
+  "item_id": "U005",
+  "category_id": "OW8",
+  "store_name": "Uniqlo",
+  "price": 79.9,
+  "color": "black",
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6af10b47e4e9896dcf04b"
+  },
+  "item_name": "Wool Beret Hat",
+  "item_id": "U006",
+  "category_id": "H1",
+  "store_name": "Uniqlo",
+  "price": 49.9,
+  "color": [
+    "white",
+    "black",
+    "red"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6affeb47e4e9896dcf04c"
+  },
+  "item_name": "Cashmere Knitted Beanie",
+  "item_id": "U007",
+  "category_id": "H1",
+  "store_name": "Uniqlo",
+  "price": 39.9,
+  "color": [
+    "green",
+    "yellow",
+    "pink"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6b112b47e4e9896dcf04d"
+  },
+  "item_name": "Knitted Gloves",
+  "item_id": "U008",
+  "category_id": "A9",
+  "store_name": "Uniqlo",
+  "price": 19.9,
+  "color": [
+    "gray",
+    "brown",
+    "blue"
+  ],
+  "gender": "uni",
+  "formality_level": 6,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6b442b47e4e9896dcf04e"
+  },
+  "item_name": "Clean Belt",
+  "item_id": "U009",
+  "category_id": "A9",
+  "store_name": "Uniqlo",
+  "price": 29.9,
+  "color": [
+    "black",
+    "brown",
+    "tan"
+  ],
+  "gender": "f",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6b594b47e4e9896dcf04f"
+  },
+  "item_name": "Reusuable Tote Bag",
+  "item_id": "U010",
+  "category_id": "A9",
+  "store_name": "Uniqlo",
+  "price": 2.9,
+  "color": "tan",
+  "gender": "m",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6b6b7b47e4e9896dcf050"
+  },
+  "item_name": "Mini Shoulder Bag",
+  "item_id": "U011",
+  "category_id": "A9",
+  "store_name": "Uniqlo",
+  "price": 19.9,
+  "color": [
+    "yellow",
+    "brown",
+    "tan"
+  ],
+  "gender": "uni",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6bb80b47e4e9896dcf051"
+  },
+  "item_name": "Light Down Vest",
+  "item_id": "U012",
+  "category_id": "OW8",
+  "store_name": "Uniqlo",
+  "price": 59.9,
+  "color": [
+    "red",
+    "brown",
+    "blue"
+  ],
+  "gender": "m",
+  "formality_level": 6,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6bd06b47e4e9896dcf052"
+  },
+  "item_name": "Wireless Bra",
+  "item_id": "U013",
+  "category_id": "U12",
+  "store_name": "Uniqlo",
+  "price": 29.9,
+  "color": [
+    "black",
+    "tan",
+    "purple"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6bdfdb47e4e9896dcf053"
+  },
+  "item_name": "Mesh Bra Bodysuit",
+  "item_id": "U014",
+  "category_id": "U12",
+  "store_name": "Uniqlo",
+  "price": 49.9,
+  "color": [
+    "black",
+    "brown"
+  ],
+  "gender": "f",
+  "formality_level": 6,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6bec7b47e4e9896dcf054"
+  },
+  "item_name": "Ultra Stretch DRY-EX Shorts",
+  "item_id": "U015",
+  "category_id": "P5",
+  "store_name": "Uniqlo",
+  "price": 29.9,
+  "color": [
+    "black",
+    "brown",
+    "blue"
+  ],
+  "gender": "m",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6bf29b47e4e9896dcf055"
+  },
+  "item_name": "Side-Stripe Sweatpants",
+  "item_id": "U016",
+  "category_id": "P5",
+  "store_name": "Uniqlo",
+  "price": 39.9,
+  "color": [
+    "gray"
+  ],
+  "gender": "m",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6c033b47e4e9896dcf056"
+  },
+  "item_name": "Button Down Camisole Flare Dress",
+  "item_id": "U017",
+  "category_id": "D10",
+  "store_name": "Uniqlo",
+  "price": 9.9,
+  "color": [
+    "pink"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6c09cb47e4e9896dcf057"
+  },
+  "item_name": "Sleeveless Dress",
+  "item_id": "U018",
+  "category_id": "D10",
+  "store_name": "Uniqlo",
+  "price": 39.9,
+  "color": [
+    "black",
+    "white",
+    "gray"
+  ],
+  "gender": "f",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6c0feb47e4e9896dcf058"
+  },
+  "item_name": "Short-Sleeve A-Line Dress",
+  "item_id": "U019",
+  "category_id": "D10",
+  "store_name": "Uniqlo",
+  "price": 14.9,
+  "color": [
+    "red"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6c13cb47e4e9896dcf059"
+  },
+  "item_name": "Camisole Romper",
+  "item_id": "U020",
+  "category_id": "D10",
+  "store_name": "Uniqlo",
+  "price": 14.9,
+  "color": [
+    "green"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6c4d6b47e4e9896dcf05a"
+  },
+  "item_name": "Marc Jacobs",
+  "item_id": "N21",
+  "category_id": "A9",
+  "store_name": "Nordstrom",
+  "price": 225,
+  "color": [
+    "brown, green, black"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6c50eb47e4e9896dcf05b"
+  },
+  "item_name": "ALDO",
+  "item_id": "N22",
+  "category_id": "A9",
+  "store_name": "Nordstrom",
+  "price": 225,
+  "color": [
+    "white"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6c55db47e4e9896dcf05c"
+  },
+  "item_name": "Tory Burch",
+  "item_id": "N23",
+  "category_id": "A9",
+  "store_name": "Nordstrom",
+  "price": 96.2,
+  "color": [
+    "green"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6c58eb47e4e9896dcf05d"
+  },
+  "item_name": "COACH",
+  "item_id": "N24",
+  "category_id": "A9",
+  "store_name": "Nordstrom",
+  "price": 95,
+  "color": [
+    "red, black"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6c6acb47e4e9896dcf05e"
+  },
+  "item_name": "Gucci Slides",
+  "item_id": "N25",
+  "category_id": "SHO4",
+  "store_name": "Nordstrom",
+  "price": 400,
+  "color": [
+    "red, black"
+  ],
+  "gender": "uni",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6c774b47e4e9896dcf05f"
+  },
+  "item_name": "Nike Sandals",
+  "item_id": "N27",
+  "category_id": "SHO4",
+  "store_name": "Nordstrom",
+  "price": 50,
+  "color": [
+    "white",
+    "black"
+  ],
+  "gender": "m",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6cba8b47e4e9896dcf060"
+  },
+  "item_name": "Zella",
+  "item_id": "N26",
+  "category_id": "P5",
+  "store_name": "Nordstrom",
+  "price": 59,
+  "color": [
+    "red",
+    "black"
+  ],
+  "gender": "f",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6cc14b47e4e9896dcf061"
+  },
+  "item_name": "Nike Pro High Rise",
+  "item_id": "N28",
+  "category_id": "P5",
+  "store_name": "Nordstrom",
+  "price": 70,
+  "color": [
+    "red",
+    "black",
+    "blue"
+  ],
+  "gender": "f",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6cd72b47e4e9896dcf062"
+  },
+  "item_name": "Sweaty Betty Super Soft Flow Crop Yoga Leggings",
+  "item_id": "N29",
+  "category_id": "P5",
+  "store_name": "Nordstrom",
+  "price": 76.7,
+  "color": [
+    "black",
+    "pink"
+  ],
+  "gender": "f",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6ce37b47e4e9896dcf063"
+  },
+  "item_name": "SPANX Front Slit Leggings",
+  "item_id": "N30",
+  "category_id": "P5",
+  "store_name": "Nordstrom",
+  "price": 128,
+  "color": [
+    "black",
+    "red"
+  ],
+  "gender": "f",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6cefdb47e4e9896dcf064"
+  },
+  "item_name": "Nike 6-Pack Crew Training Socks",
+  "item_id": "N31",
+  "category_id": "SO6",
+  "store_name": "Nordstrom",
+  "price": 22,
+  "color": [
+    "black"
+  ],
+  "gender": "m",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6cf5bb47e4e9896dcf065"
+  },
+  "item_name": "Calvin Klein 3-Pack Cotton Boxers",
+  "item_id": "N32",
+  "category_id": "U12",
+  "store_name": "Nordstrom",
+  "price": 36.8,
+  "color": [
+    "black",
+    "blue",
+    "white"
+  ],
+  "gender": "m",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d027b47e4e9896dcf066"
+  },
+  "item_name": "Nordstrom 3-Pack Cotton Boxers",
+  "item_id": "N33",
+  "category_id": "U12",
+  "store_name": "Nordstrom",
+  "price": 45,
+  "color": [
+    "black",
+    "blue"
+  ],
+  "gender": "m",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d11ab47e4e9896dcf067"
+  },
+  "item_name": "Polo Ralph Lauren 6-Pack Crew Socks",
+  "item_id": "N34",
+  "category_id": "SO6",
+  "store_name": "Nordstrom",
+  "price": 28.98,
+  "color": [
+    "black",
+    "blue",
+    "white"
+  ],
+  "gender": "m",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d1b7b47e4e9896dcf068"
+  },
+  "item_name": "Brixton Reno Wool Fedora",
+  "item_id": "N35",
+  "category_id": "H1",
+  "store_name": "Nordstrom",
+  "price": 109,
+  "color": [
+    "green"
+  ],
+  "gender": "uni",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d204b47e4e9896dcf069"
+  },
+  "item_name": "North Face Dock Worker Beanie",
+  "item_id": "N36",
+  "category_id": "H1",
+  "store_name": "Nordstrom",
+  "price": 30,
+  "color": [
+    "black"
+  ],
+  "gender": "uni",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d2b9b47e4e9896dcf06a"
+  },
+  "item_name": "slip Pure Silk 3-Pack Scrunchies",
+  "item_id": "N37",
+  "category_id": "A9",
+  "store_name": "Nordstrom",
+  "price": 39,
+  "color": [
+    "black",
+    "brown"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d344b47e4e9896dcf06b"
+  },
+  "item_name": "Tasha Twisted Headband",
+  "item_id": "N38",
+  "category_id": "A9",
+  "store_name": "Nordstrom",
+  "price": 24,
+  "color": [
+    "blue",
+    "tan",
+    "red"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d3d4b47e4e9896dcf06c"
+  },
+  "item_name": "Ficcare Maximas Hair Clip",
+  "item_id": "N39",
+  "category_id": "A9",
+  "store_name": "Nordstrom",
+  "price": 58,
+  "color": [
+    "blue",
+    "green",
+    "red"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d423b47e4e9896dcf06d"
+  },
+  "item_name": "Nimbus Hair Clip",
+  "item_id": "N40",
+  "category_id": "A9",
+  "store_name": "Nordstrom",
+  "price": 20,
+  "color": [
+    "blue",
+    "green",
+    "yellow"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d512b47e4e9896dcf06e"
+  },
+  "item_name": "Converse All Star Hi",
+  "item_id": "F41",
+  "category_id": "SHO4",
+  "store_name": "Foot_Locker",
+  "price": 65,
+  "color": [
+    "white"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d54db47e4e9896dcf06f"
+  },
+  "item_name": "New Balance 550",
+  "item_id": "F42",
+  "category_id": "SHO4",
+  "store_name": "Foot_Locker",
+  "price": 110,
+  "color": [
+    "brown"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d593b47e4e9896dcf070"
+  },
+  "item_name": "Vans Old Skool Stackform",
+  "item_id": "F43",
+  "category_id": "SHO4",
+  "store_name": "Foot_Locker",
+  "price": 59.99,
+  "color": [
+    "black"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d60cb47e4e9896dcf071"
+  },
+  "item_name": "adidas Ultraboost DNA",
+  "item_id": "F44",
+  "category_id": "SHO4",
+  "store_name": "Foot_Locker",
+  "price": 151.95,
+  "color": [
+    "white"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d655b47e4e9896dcf072"
+  },
+  "item_name": "Nike Air Vapormax Plus",
+  "item_id": "F45",
+  "category_id": "SHO4",
+  "store_name": "Foot_Locker",
+  "price": 149.99,
+  "color": [
+    "orange"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d6e5b47e4e9896dcf073"
+  },
+  "item_name": "Nike Basketball Bliss Photo T-Shirt",
+  "item_id": "F46",
+  "category_id": "SHI3",
+  "store_name": "Foot_Locker",
+  "price": 19.97,
+  "color": [
+    "black",
+    "green",
+    "blue"
+  ],
+  "gender": "m",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d74bb47e4e9896dcf074"
+  },
+  "item_name": "ASICS Ready Set 2 T-Shirt",
+  "item_id": "F47",
+  "category_id": "SHI3",
+  "store_name": "Foot_Locker",
+  "price": 19.99,
+  "color": [
+    "orange"
+  ],
+  "gender": "m",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d7f4b47e4e9896dcf075"
+  },
+  "item_name": "Columbia Oregon Long-Sleeve T-Shirt",
+  "item_id": "F48",
+  "category_id": "SHI3",
+  "store_name": "Foot_Locker",
+  "price": 44.99,
+  "color": [
+    "green"
+  ],
+  "gender": "uni",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d87ab47e4e9896dcf076"
+  },
+  "item_name": "Nike Plus Tech Fleece Hoodie",
+  "item_id": "F49",
+  "category_id": "OW8",
+  "store_name": "Foot_Locker",
+  "price": 69.99,
+  "color": [
+    "black"
+  ],
+  "gender": "f",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d8b7b47e4e9896dcf077"
+  },
+  "item_name": "PUMA Fleece Hoodie",
+  "item_id": "F50",
+  "category_id": "OW8",
+  "store_name": "Foot_Locker",
+  "price": 34.99,
+  "color": [
+    "black"
+  ],
+  "gender": "f",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d8f0b47e4e9896dcf078"
+  },
+  "item_name": "Jordan Heritage Fleece Hoodie",
+  "item_id": "F51",
+  "category_id": "OW8",
+  "store_name": "Foot_Locker",
+  "price": 54.99,
+  "color": [
+    "red"
+  ],
+  "gender": "f",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d931b47e4e9896dcf079"
+  },
+  "item_name": "Codi Zip Hoodie",
+  "item_id": "F52",
+  "category_id": "OW8",
+  "store_name": "Foot_Locker",
+  "price": 29.99,
+  "color": [
+    "purple, green, orange"
+  ],
+  "gender": "f",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6d9ddb47e4e9896dcf07a"
+  },
+  "item_name": "Champion Print Crew Socks",
+  "item_id": "F53",
+  "category_id": "SO6",
+  "store_name": "Foot_Locker",
+  "price": 10,
+  "color": [
+    "black"
+  ],
+  "gender": "uni",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6da4db47e4e9896dcf07b"
+  },
+  "item_name": "Pair of Thieves Pride Crew Socks",
+  "item_id": "F54",
+  "category_id": "SO6",
+  "store_name": "Foot_Locker",
+  "price": 7,
+  "color": [
+    "white"
+  ],
+  "gender": "uni",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6dab8b47e4e9896dcf07c"
+  },
+  "item_name": "LCKR Cush No Show Socks",
+  "item_id": "F55",
+  "category_id": "SO6",
+  "store_name": "Foot_Locker",
+  "price": 14.95,
+  "color": [
+    "blue",
+    "white",
+    "pink"
+  ],
+  "gender": "uni",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6db21b47e4e9896dcf07d"
+  },
+  "item_name": "Ethika Graphic Shorts",
+  "item_id": "F56",
+  "category_id": "SO6",
+  "store_name": "Foot_Locker",
+  "price": 19.99,
+  "color": [
+    "blue",
+    "pink"
+  ],
+  "gender": "f",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6dba0b47e4e9896dcf07e"
+  },
+  "item_name": "Crocs Classic Clogs",
+  "item_id": "F57",
+  "category_id": "SHO4",
+  "store_name": "Foot_Locker",
+  "price": 50,
+  "color": [
+    "white"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6dbddb47e4e9896dcf07f"
+  },
+  "item_name": "Crocs Classic Lined Clogs",
+  "item_id": "F58",
+  "category_id": "SHO4",
+  "store_name": "Foot_Locker",
+  "price": 29.99,
+  "color": [
+    "brown"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6dc46b47e4e9896dcf080"
+  },
+  "item_name": "HOKA Clifton 9",
+  "item_id": "F59",
+  "category_id": "SHO4",
+  "store_name": "Foot_Locker",
+  "price": 145,
+  "color": [
+    "white"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6dc74b47e4e9896dcf081"
+  },
+  "item_name": "HOKA Rincon 3",
+  "item_id": "F60",
+  "category_id": "SHO4",
+  "store_name": "Foot_Locker",
+  "price": 125,
+  "color": [
+    "pink"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6de0cb47e4e9896dcf082"
+  },
+  "item_name": "PacSun Cotton Loose Cargo Pants",
+  "item_id": "P61",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 58.99,
+  "color": [
+    "blue"
+  ],
+  "gender": "uni",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6df53b47e4e9896dcf083"
+  },
+  "item_name": "ECO Car 911 Sweatpants",
+  "item_id": "P62",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 39.89,
+  "color": [
+    "green"
+  ],
+  "gender": "uni",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6dfa0b47e4e9896dcf084"
+  },
+  "item_name": "PacSun Gray Sweatpants",
+  "item_id": "P63",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 35.99,
+  "color": [
+    "tan"
+  ],
+  "gender": "uni",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6dfdcb47e4e9896dcf085"
+  },
+  "item_name": "Khaki Twill Volley Shorts",
+  "item_id": "P64",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 36.95,
+  "color": [
+    "brown"
+  ],
+  "gender": "uni",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e015b47e4e9896dcf086"
+  },
+  "item_name": "PacSun Black Sweatpants",
+  "item_id": "P65",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 35.99,
+  "color": [
+    "black"
+  ],
+  "gender": "uni",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e133b47e4e9896dcf088"
+  },
+  "item_name": "Death Row Tie Dyed Swim Trunks",
+  "item_id": "P66",
+  "category_id": "U12",
+  "store_name": "PacSun",
+  "price": 13.5,
+  "color": [
+    "blue"
+  ],
+  "gender": "m",
+  "formality_level": 6,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e1d9b47e4e9896dcf089"
+  },
+  "item_name": "Eco Retro Shrooms Swim Trunks",
+  "item_id": "P67",
+  "category_id": "U12",
+  "store_name": "PacSun",
+  "price": 22.17,
+  "color": [
+    "black"
+  ],
+  "gender": "m",
+  "formality_level": 6,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e221b47e4e9896dcf08a"
+  },
+  "item_name": "Crimson Stripe Swim Trunks",
+  "item_id": "P68",
+  "category_id": "U12",
+  "store_name": "PacSun",
+  "price": 23.79,
+  "color": [
+    "pink"
+  ],
+  "gender": "m",
+  "formality_level": 6,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e275b47e4e9896dcf08b"
+  },
+  "item_name": "Budweiser 1876 Boardshorts",
+  "item_id": "P69",
+  "category_id": "U12",
+  "store_name": "PacSun",
+  "price": 12.3,
+  "color": [
+    "red"
+  ],
+  "gender": "m",
+  "formality_level": 6,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e2b3b47e4e9896dcf08c"
+  },
+  "item_name": "PacSun Shoreline Swim Trunks",
+  "item_id": "P70",
+  "category_id": "U12",
+  "store_name": "PacSun",
+  "price": 22.17,
+  "color": [
+    "brown"
+  ],
+  "gender": "m",
+  "formality_level": 6,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e6fbb47e4e9896dcf08d"
+  },
+  "item_name": "PacSun Medium Blue Stretch Dad Jeans",
+  "item_id": "P71",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 56.95,
+  "color": [
+    "blue"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e72db47e4e9896dcf08e"
+  },
+  "item_name": "PacSun Blue Distressed Dad Jeans",
+  "item_id": "P72",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 59.95,
+  "color": [
+    "blue"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e754b47e4e9896dcf08f"
+  },
+  "item_name": "PacSun Blue Curve Dad Jeans",
+  "item_id": "P73",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 56.95,
+  "color": [
+    "blue"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e78cb47e4e9896dcf090"
+  },
+  "item_name": "PacSun Eco Off White Dad Jeans",
+  "item_id": "P74",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 56.95,
+  "color": [
+    "white"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e7ccb47e4e9896dcf091"
+  },
+  "item_name": "PacSun Brown Dad Jeans",
+  "item_id": "P75",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 59.95,
+  "color": [
+    "brown"
+  ],
+  "gender": "f",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e82cb47e4e9896dcf092"
+  },
+  "item_name": "PacSun Skinny Medium Indigo Stretch Jeans",
+  "item_id": "P76",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 59.95,
+  "color": [
+    "blue"
+  ],
+  "gender": "m",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e873b47e4e9896dcf093"
+  },
+  "item_name": "PacSun Skinny Indigo High Stretch Jeans",
+  "item_id": "P77",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 54.95,
+  "color": [
+    "blue"
+  ],
+  "gender": "m",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e8a4b47e4e9896dcf094"
+  },
+  "item_name": "PacSun Skinny Gray Comfort Stretch Jeans",
+  "item_id": "P78",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 59.95,
+  "color": [
+    "gray"
+  ],
+  "gender": "m",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e908b47e4e9896dcf095"
+  },
+  "item_name": "PacSun Stacked Skinny Black High Stretch Jeans",
+  "item_id": "P79",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 49.95,
+  "color": [
+    "black"
+  ],
+  "gender": "m",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6e930b47e4e9896dcf096"
+  },
+  "item_name": "PacSun Stacked Skinny Black Comfort Stretch Jeans",
+  "item_id": "P80",
+  "category_id": "P5",
+  "store_name": "PacSun",
+  "price": 49.95,
+  "color": [
+    "black"
+  ],
+  "gender": "m",
+  "formality_level": 1,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6eaa9b47e4e9896dcf097"
+  },
+  "item_name": "Satin Ties",
+  "item_id": "H81",
+  "category_id": "T2",
+  "store_name": "H&M",
+  "price": 19.99,
+  "color": [
+    "black",
+    "brown"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6ead7b47e4e9896dcf098"
+  },
+  "item_name": "2-Pack Ties",
+  "item_id": "H82",
+  "category_id": "T2",
+  "store_name": "H&M",
+  "price": 19.99,
+  "color": [
+    "black",
+    "blue"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6eafdb47e4e9896dcf099"
+  },
+  "item_name": "Satin 2-Pack Ties",
+  "item_id": "H101",
+  "category_id": "T2",
+  "store_name": "H&M",
+  "price": 19.99,
+  "color": [
+    "tan",
+    "brown"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6ec45b47e4e9896dcf09a"
+  },
+  "item_name": "Satin 2-Pack Bow Ties",
+  "item_id": "H83",
+  "category_id": "T2",
+  "store_name": "H&M",
+  "price": 17.99,
+  "color": [
+    "blue",
+    "black"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6ecfcb47e4e9896dcf09b"
+  },
+  "item_name": "Slim Fit Suit Vest",
+  "item_id": "H84",
+  "category_id": "SU11",
+  "store_name": "H&M",
+  "price": 31.99,
+  "color": [
+    "blue",
+    "black"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6ed31b47e4e9896dcf09c"
+  },
+  "item_name": "Slim Fit Suit Vest 2",
+  "item_id": "H85",
+  "category_id": "SU11",
+  "store_name": "H&M",
+  "price": 31.99,
+  "color": [
+    "blue",
+    "black"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6ed73b47e4e9896dcf09d"
+  },
+  "item_name": "Slim Fit Suit Pants",
+  "item_id": "H86",
+  "category_id": "SU11",
+  "store_name": "H&M",
+  "price": 49.99,
+  "color": [
+    "blue",
+    "black"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6eda8b47e4e9896dcf09e"
+  },
+  "item_name": "Skinny Fit Suit Pants",
+  "item_id": "H102",
+  "category_id": "T2",
+  "store_name": "H&M",
+  "price": 44.99,
+  "color": [
+    "blue",
+    "black",
+    "brown"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6ee15b47e4e9896dcf09f"
+  },
+  "item_name": "Slim Fit Jersey Suit Pants",
+  "item_id": "H87",
+  "category_id": "SU11",
+  "store_name": "H&M",
+  "price": 44.99,
+  "color": [
+    "gray"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6ef96b47e4e9896dcf0a0"
+  },
+  "item_name": "Slim Fit Linen Suit Pants",
+  "item_id": "H88",
+  "category_id": "SU11",
+  "store_name": "H&M",
+  "price": 49.99,
+  "color": [
+    "white",
+    "blue",
+    "black"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6efd4b47e4e9896dcf0a1"
+  },
+  "item_name": "Slim Fit Lyocell Suit Pants",
+  "item_id": "H89",
+  "category_id": "SU11",
+  "store_name": "H&M",
+  "price": 14.99,
+  "color": [
+    "white",
+    "gray",
+    "brown"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6f013b47e4e9896dcf0a2"
+  },
+  "item_name": "Slim Fit Velvet Suit Pants",
+  "item_id": "H90",
+  "category_id": "SU11",
+  "store_name": "H&M",
+  "price": 49.99,
+  "color": [
+    "blue",
+    "brown"
+  ],
+  "gender": "m",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6f094b47e4e9896dcf0a3"
+  },
+  "item_name": "3-Pack Bracelets",
+  "item_id": "H91",
+  "category_id": "J7",
+  "store_name": "H&M",
+  "price": 11.05,
+  "color": [
+    "green",
+    "brown"
+  ],
+  "gender": "m",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6f0bfb47e4e9896dcf0a4"
+  },
+  "item_name": "3-Pack Rings",
+  "item_id": "H92",
+  "category_id": "J7",
+  "store_name": "H&M",
+  "price": 11.05,
+  "color": [
+    "white"
+  ],
+  "gender": "m",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6f0f3b47e4e9896dcf0a5"
+  },
+  "item_name": "2-Pack Necklaces",
+  "item_id": "H93",
+  "category_id": "J7",
+  "store_name": "H&M",
+  "price": 8.5,
+  "color": [
+    "gray"
+  ],
+  "gender": "m",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6f136b47e4e9896dcf0a6"
+  },
+  "item_name": "Wool-blend Flat Cap",
+  "item_id": "H94",
+  "category_id": "H1",
+  "store_name": "H&M",
+  "price": 17.85,
+  "color": [
+    "gray"
+  ],
+  "gender": "m",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6f209b47e4e9896dcf0a7"
+  },
+  "item_name": "Nylon Belt Bag",
+  "item_id": "H95",
+  "category_id": "A9",
+  "store_name": "H&M",
+  "price": 14.45,
+  "color": [
+    "tan"
+  ],
+  "gender": "m",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6f277b47e4e9896dcf0a8"
+  },
+  "item_name": "DryMove Running Gloves",
+  "item_id": "H96",
+  "category_id": "A9",
+  "store_name": "H&M",
+  "price": 17,
+  "color": [
+    "black"
+  ],
+  "gender": "m",
+  "formality_level": 2,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6f387b47e4e9896dcf0a9"
+  },
+  "item_name": "Knit Dress",
+  "item_id": "H97",
+  "category_id": "D10",
+  "store_name": "H&M",
+  "price": 34.99,
+  "color": [
+    "black",
+    "gray",
+    "white"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6f3f6b47e4e9896dcf0aa"
+  },
+  "item_name": "Jacket Dress",
+  "item_id": "H98",
+  "category_id": "D10",
+  "store_name": "H&M",
+  "price": 64.99,
+  "color": [
+    "black"
+  ],
+  "gender": "f",
+  "formality_level": 4,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6f454b47e4e9896dcf0ab"
+  },
+  "item_name": "Rib-knit Dress",
+  "item_id": "H99",
+  "category_id": "D10",
+  "store_name": "H&M",
+  "price": 39.99,
+  "color": [
+    "black"
+  ],
+  "gender": "f",
+  "formality_level": 5,
+  "image_url": ""
+},
+{
+  "_id": {
+    "$oid": "64e6f493b47e4e9896dcf0ac"
+  },
+  "item_name": "Sweatshirt Dress",
+  "item_id": "H100",
+  "category_id": "D10",
+  "store_name": "H&M",
+  "price": 24.99,
+  "color": [
+    "black"
+  ],
+  "gender": "f",
+  "formality_level": 3,
+  "image_url": ""
+}]

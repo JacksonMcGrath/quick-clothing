@@ -1,0 +1,103 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+.item-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.item {
+  flex: 1 1 calc(25% - 40px);
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease-in-out;
+  overflow: hidden;
+}
+
+.item:hover {
+  box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+  font-size: 2.5em;
+  font-weight: 800;
+  color: #4b6e87;
+  margin-bottom: 1rem;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  padding: 1rem;
+}
+
+.card-text {
+  margin-bottom: 0.5rem;
+}
+
+.card-details {
+  font-size: 1.2em;
+}
+
+.card-price {
+  color: #d82b2b;
+}
+
+.card-colors {
+  font-weight: bold;
+}
+
+/* Align the last element to the bottom */
+.card-body :last-child {
+  margin-top: auto;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
